@@ -188,7 +188,7 @@ function Home() {
 
               <p>
                 "The best fitness platform I've used.
-                Easy and motivating."
+                Easy and motivating ."
               </p>
             </div>
           </div>
@@ -200,5 +200,7 @@ function Home() {
     </>
   );
 }
+
+
 
 export default Home;
