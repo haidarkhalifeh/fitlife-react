@@ -51,7 +51,7 @@ function Dashboard() {
 
               <p>
                 ✔ Strength Workouts:
-                4 Completed
+                4  Completed 
               </p>
 
               <p>
