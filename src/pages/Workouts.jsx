@@ -10,7 +10,7 @@ function Workouts() {
       duration: "15 min",
       calories: "120",
       image:
-        "https://images.unsplash.com/photo-1598971639058-aef4a47d8f1f?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?auto=format&fit=crop&w=1200&q=80",
     },
 
     {
