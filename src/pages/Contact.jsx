@@ -96,7 +96,7 @@ function Contact() {
 
               <p>
                 🕒 Mon - Sat:
-                8:00 AM - 8:00 PM
+                8:00 AM - 8:00  PM
               </p>
             </div>
           </div>
